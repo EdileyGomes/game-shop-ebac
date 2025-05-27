@@ -153,3 +153,8 @@ footer {
     color: white;
     padding: 16px 0px;
 }
+
+#main-content {
+    background-image: linear-gradient(77deg, #c5d3e0, #7193bb);
+    padding: 24px 24px;
+}
